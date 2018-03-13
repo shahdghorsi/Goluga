@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="10dp"
+    android:shape="rectangle">
+    <solid android:color="#7EB20E" />
+    <corners android:radius="2dp" />
+    <item
+        android:color="#ba11ba"
+        android:state_pressed="true" />
+    <item
+        android:color="#499499"
+        android:state_focused="true" />
+</shape>
+
